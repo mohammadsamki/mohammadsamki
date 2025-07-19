@@ -63,9 +63,9 @@ I mentor them through real projects, GitHub collaboration, and technical intervi
 
 ### 📫 Let's Connect!
 
-- 📧 Email: mohammad.alsamaki@example.com  
+- 📧 Email: samkimohd@gmail.com  
 - 💼 LinkedIn / Portfolio: *Coming soon*  
-- 🧠 GitHub Repos: [Explore my projects →](https://github.com/mohammadalsamaki)
+- 🧠 GitHub Repos: [Explore my projects →](https://github.com/mohammadsamki)
 
 ---
 
